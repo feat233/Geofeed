@@ -1,32 +1,33 @@
-2a13:a5c7:1500::/44,US,US-LA,Los Angeles
-2a13:a5c7:1510::/44,US,US-LA,Los Angeles
-2a13:a5c7:1520::/44,US,US-LA,Los Angeles
-2a13:a5c7:1530::/44,US,US-LA,Los Angeles
-2a13:a5c7:1540::/44,US,US-LA,Los Angeles
-2a13:a5c7:1550::/44,US,US-LA,Los Angeles
-2a13:a5c7:1560::/44,US,US-LA,Los Angeles
-2a13:a5c7:1570::/44,US,US-LA,Los Angeles
-2a13:a5c7:1580::/44,HK,HK,Central and Western
-2a13:a5c7:1590::/44,HK,HK,Central and Western
-2a13:a5c7:15a0::/44,HK,HK,Central and Western
+# From AS216243 
+2a13:a5c7:1500::/44,US,US-CA,Los Angeles
+2a13:a5c7:1510::/44,US,US-CA,Los Angeles
+2a13:a5c7:1520::/44,US,US-CA,Los Angeles
+2a13:a5c7:1530::/44,US,US-CA,Los Angeles
+2a13:a5c7:1540::/44,US,US-CA,Los Angeles
+2a13:a5c7:1550::/44,US,US-CA,Los Angeles
+2a13:a5c7:1560::/44,US,US-CA,Los Angeles
+2a13:a5c7:1570::/44,US,US-CA,Los Angeles
+2a13:a5c7:1580::/44,HK,HK,
+2a13:a5c7:1590::/44,HK,HK,
+2a13:a5c7:15a0::/44,HK,HK,
 2a13:a5c7:15b0::/44,HK,HK,Central and Western
 2a13:a5c7:15c0::/44,HK,HK,Central and Western
 2a13:a5c7:15d0::/44,HK,HK,Central and Western
 2a13:a5c7:15e0::/44,HK,HK,Central and Western
 2a13:a5c7:15f0::/44,HK,HK,Central and Western
-2a13:a5c4::/36,US,US-LA,Los Angeles
-2a13:a5c4:1000::/36,US,US-LA,Los Angeles
-2a13:a5c4:2000::/36,US,US-LA,Los Angeles
-2a13:a5c4:3000::/36,US,US-LA,Los Angeles
-2a13:a5c4:4000::/36,US,US-LA,Los Angeles
-2a13:a5c4:5000::/36,US,US-LA,Los Angeles
-2a13:a5c4:6000::/36,US,US-LA,Los Angeles
-2a13:a5c4:7000::/36,US,US-LA,Los Angeles
-2a13:a5c4:8000::/36,US,US-LA,Los Angeles
-2a13:a5c4:9000::/36,US,US-LA,Los Angeles
-2a13:a5c4:a000::/36,US,US-LA,Los Angeles
-2a13:a5c4:b000::/36,US,US-LA,Los Angeles
-2a13:a5c4:c000::/36,US,US-LA,Los Angeles
-2a13:a5c4:d000::/36,US,US-LA,Los Angeles
-2a13:a5c4:e000::/36,US,US-LA,Los Angeles
-2a13:a5c4:f000::/36,US,US-LA,Los Angeles
+2a13:a5c4::/36,US,US-CA,Los Angeles
+2a13:a5c4:1000::/36,US,US-CA,Los Angeles
+2a13:a5c4:2000::/36,US,US-CA,Los Angeles
+2a13:a5c4:3000::/36,US,US-CA,Los Angeles
+2a13:a5c4:4000::/36,US,US-CA,Los Angeles
+2a13:a5c4:5000::/36,US,US-CA,Los Angeles
+2a13:a5c4:6000::/36,US,US-CA,Los Angeles
+2a13:a5c4:7000::/36,US,US-CA,Los Angeles
+2a13:a5c4:8000::/36,US,US-CA,Los Angeles
+2a13:a5c4:9000::/36,US,US-CA,Los Angeles
+2a13:a5c4:a000::/36,US,US-CA,Los Angeles
+2a13:a5c4:b000::/36,US,US-CA,Los Angeles
+2a13:a5c4:c000::/36,US,US-CA,Los Angeles
+2a13:a5c4:d000::/36,US,US-CA,Los Angeles
+2a13:a5c4:e000::/36,US,US-CA,Los Angeles
+2a13:a5c4:f000::/36,US,US-CA,Los Angeles
